@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🤓 I'm a coder in AI & Cloud Computing.
+
+
+### Get in touch
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/changsci)
+
 <!--
 **changsci/changsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
